@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f0dff4; /* Gunakan background-color untuk warna */
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase; /* Mengubah teks menjadi huruf besar (uppercase) */
+}
+
+.tulisan_login {
+    text-align: center; /* Perbaikan dari text_align ke text-align */
+    text-transform: uppercase; /* Mengubah teks menjadi huruf besar */
+}
+
+.kotak_login {
+    width: 350px;
+    background-color: #cca2ea; /* Gunakan background-color untuk warna */
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label {
+    font-size: 12pt;
+    color: #ead8ef;
+}
+
+.form_login {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt; /* Perbaikan dari font_size ke font-size */
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.tombol_login {
+    background-color: #ac66c8; /* Gunakan background-color untuk warna */
+    color: #efd0ee;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
